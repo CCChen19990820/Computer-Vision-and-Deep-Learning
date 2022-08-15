@@ -1,8 +1,8 @@
 # Computer-Vision-and-Deep-Learning
 
-##Folder 1 
+## Folder 1 
 It is the implementation of the following method:
-UI interface:  
+UI interface  
 ![圖片1](https://user-images.githubusercontent.com/48405514/184615007-ce022cb8-3533-4776-afa2-a3df1405f886.png)
 
 1.Camera Calibration  
@@ -23,4 +23,10 @@ UI interface:
 5.Training Cifar-10 Classifier Using VGG16
 
 
+## Folder 2  
+It is the implementation of the following method:
 
+1.PCA(Principal components analysis) to do dimension reduction and then reconstruct  
+![image](https://user-images.githubusercontent.com/48405514/184618663-d2bd7d76-d852-4015-9e13-645dfe3d08de.png)
+
+2.Dogs and Cats classification Using ResNet50  

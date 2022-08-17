@@ -19,8 +19,8 @@ This is the UI interface which is made by Qtdesigner, implementing the following
 4.SIFT  
 ![image](https://user-images.githubusercontent.com/48405514/184616042-afa8cef7-e901-41e1-ac26-a7938237527f.png)
 
-5.Training Cifar-10 Classifier Using VGG16
-
+5.Training Cifar-10 Classifier Using VGG16  
+Cifar-10 is a 32 x 32 RGB color picture datasets, I use VGG16 to train this dataset. There are 10 categories in total. Airplane, automobile, bird, cat, dog, frog, horse, ship, and truck respectively.
 
 ## Folder 2  
 It is the implementation of the following method:
@@ -28,4 +28,5 @@ It is the implementation of the following method:
 1.PCA(Principal components analysis) to do dimension reduction and then reconstruct  
 ![image](https://user-images.githubusercontent.com/48405514/184618663-d2bd7d76-d852-4015-9e13-645dfe3d08de.png)
 
-2.Dogs and Cats classification Using ResNet50  
+2.Dogs and Cats classification Using ResNet50    
+The dataset is composed of cats and dogs. In this case, I use random erase for data augmentation. Compare the classification accuracy of using normal augmentation method and using random erase method. The result shows that using normal augmentation has better classification accuracy.

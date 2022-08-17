@@ -1,8 +1,7 @@
 # Computer-Vision-and-Deep-Learning
 
-## Folder 1 
-It is the implementation of the following method:
-UI interface  
+## Folder 1  
+This is the UI interface which is made by Qtdesigner, implementing the following method: 
 ![圖片1](https://user-images.githubusercontent.com/48405514/184615007-ce022cb8-3533-4776-afa2-a3df1405f886.png)
 
 1.Camera Calibration  
